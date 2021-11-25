@@ -1,0 +1,6 @@
+[submodule "submod/mynewt-newt"]
+	path = submod/mynewt-newt
+	url = git@github.com:dachalco/mynewt-newt.git
+[submodule "submod/mynewt-newtmgr"]
+	path = submod/mynewt-newtmgr
+	url = git@github.com:dachalco/mynewt-newtmgr.git
