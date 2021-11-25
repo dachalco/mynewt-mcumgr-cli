@@ -1,9 +1,8 @@
-module github.com/apache/mynewt-mcumgr-cli
+module mcumgr
 
-go 1.12
+go 1.13
 
 require (
-	github.com/go-ble/ble v0.0.0-20181002102605-e78417b510a3 // indirect
-	mynewt.apache.org/newt v0.0.0-20201028015609-b57111dbd19f
-	mynewt.apache.org/newtmgr v0.0.0-20201028150837-60b2da78788c
+	github.com/dachalco/mynewt-newt v0.0.0-20211125010215-3f84d42756a5
+	github.com/dachalco/mynewt-newtmgr v0.0.0-20211125012030-a32871a37fda
 )
